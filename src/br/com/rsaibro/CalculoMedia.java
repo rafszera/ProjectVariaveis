@@ -2,13 +2,13 @@ package br.com.rsaibro;
 
 public class CalculoMedia {
     public static void main(String[] args) {
-        // Definindo um conjunto de números
+
         int[] numeros = { 5, 10, 15, 20, 25 };
 
-        // Calculando a média
+
         double media = calcularMedia(numeros);
 
-        // Exibindo o resultado
+
         System.out.println("A média é: " + media);
     }
 
